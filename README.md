@@ -17,9 +17,20 @@ steps to install the program
 To run the project:
 first you need to modules installed 
 ```pip install cryptography```
+
+
+
 ```os module (comes pre installed)```
+
+
+
 ```python3 password_manager.py```
+
+
+
         OR
+
+        
 ```python password_manager.py```
 
 # Instruction for testing 
